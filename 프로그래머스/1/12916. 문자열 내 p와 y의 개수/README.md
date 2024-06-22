@@ -1,6 +1,6 @@
 # [level 1] 문자열 내 p와 y의 개수 - 12916 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 17일 20:28:59
+2024년 06월 23일 00:42:23
 
 ### 문제 설명
 
